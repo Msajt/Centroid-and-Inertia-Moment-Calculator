@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1604178710 source:c:\users\paulo\desktop\programacao e modelagem\linguagens\c++\solidos\centroide-inercia\centroide-inercia.cpp
+	"centroide-inercia.h"
+	<math.h>
+	<cmath>
+	<vector>
+	<iomanip>
+
+1604178636 c:\users\paulo\desktop\programacao e modelagem\linguagens\c++\solidos\centroide-inercia\centroide-inercia.h
+	<iostream>
+	<vector>
+
+1604178816 source:c:\users\paulo\desktop\programacao e modelagem\linguagens\c++\solidos\centroide-inercia\main.cpp
+	<math.h>
+	"centroide-inercia.h"
+	"cmath"
+	<iomanip>
+
